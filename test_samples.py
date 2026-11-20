@@ -13,9 +13,11 @@ class SampleTests(unittest.TestCase):
         observations = self.data['observations']
         sales = {(row['day'], row['item'], row['minute']): row['amount'] for row in observations if row['event'] == '领取'}
         links = [row for row in observations if row['event'] == '替代领餐']
+        empty = {(row['day'], row['item']) for row in observations if row['event'] == '核余' and row['amount'] == 0}
         self.assertTrue(links)
         for link in links:
             self.assertLessEqual(link['amount'], sales[link['day'], link['substitute'], link['linked_minute']])
+            self.assertIn((link['day'], link['item']), empty)
 
     def test_service_has_stockout_and_restock_records(self):
         observations = self.data['observations']
