@@ -299,16 +299,6 @@
   },
   {
     "day": "2026-08-05",
-    "item": "米饭",
-    "minute": 726,
-    "event": "替代领餐",
-    "amount": 2,
-    "substitute": "面食",
-    "linked_minute": 720,
-    "received": 726
-  },
-  {
-    "day": "2026-08-05",
     "item": "面食",
     "minute": 690,
     "event": "领取",
@@ -482,16 +472,6 @@
     "event": "问询",
     "amount": 4,
     "received": 725
-  },
-  {
-    "day": "2026-08-08",
-    "item": "米饭",
-    "minute": 726,
-    "event": "替代领餐",
-    "amount": 0,
-    "substitute": "面食",
-    "linked_minute": 720,
-    "received": 726
   },
   {
     "day": "2026-08-08",
@@ -849,16 +829,6 @@
   },
   {
     "day": "2026-08-14",
-    "item": "米饭",
-    "minute": 726,
-    "event": "替代领餐",
-    "amount": 2,
-    "substitute": "面食",
-    "linked_minute": 720,
-    "received": 726
-  },
-  {
-    "day": "2026-08-14",
     "item": "面食",
     "minute": 690,
     "event": "领取",
@@ -1032,16 +1002,6 @@
     "event": "问询",
     "amount": 4,
     "received": 725
-  },
-  {
-    "day": "2026-08-17",
-    "item": "米饭",
-    "minute": 726,
-    "event": "替代领餐",
-    "amount": 0,
-    "substitute": "面食",
-    "linked_minute": 720,
-    "received": 726
   },
   {
     "day": "2026-08-17",
@@ -1423,16 +1383,6 @@
   },
   {
     "day": "2026-08-23",
-    "item": "米饭",
-    "minute": 726,
-    "event": "替代领餐",
-    "amount": 2,
-    "substitute": "面食",
-    "linked_minute": 720,
-    "received": 726
-  },
-  {
-    "day": "2026-08-23",
     "item": "面食",
     "minute": 690,
     "event": "领取",
@@ -1622,16 +1572,6 @@
     "event": "问询",
     "amount": 4,
     "received": 725
-  },
-  {
-    "day": "2026-08-26",
-    "item": "米饭",
-    "minute": 726,
-    "event": "替代领餐",
-    "amount": 0,
-    "substitute": "面食",
-    "linked_minute": 720,
-    "received": 726
   },
   {
     "day": "2026-08-26",
@@ -1973,16 +1913,6 @@
   },
   {
     "day": "2026-09-01",
-    "item": "米饭",
-    "minute": 726,
-    "event": "替代领餐",
-    "amount": 2,
-    "substitute": "面食",
-    "linked_minute": 720,
-    "received": 726
-  },
-  {
-    "day": "2026-09-01",
     "item": "面食",
     "minute": 690,
     "event": "领取",
@@ -2172,16 +2102,6 @@
     "event": "问询",
     "amount": 4,
     "received": 725
-  },
-  {
-    "day": "2026-09-04",
-    "item": "米饭",
-    "minute": 726,
-    "event": "替代领餐",
-    "amount": 0,
-    "substitute": "面食",
-    "linked_minute": 720,
-    "received": 726
   },
   {
     "day": "2026-09-04",
@@ -2563,16 +2483,6 @@
   },
   {
     "day": "2026-09-10",
-    "item": "米饭",
-    "minute": 726,
-    "event": "替代领餐",
-    "amount": 2,
-    "substitute": "面食",
-    "linked_minute": 720,
-    "received": 726
-  },
-  {
-    "day": "2026-09-10",
     "item": "面食",
     "minute": 690,
     "event": "领取",
@@ -2746,16 +2656,6 @@
     "event": "问询",
     "amount": 4,
     "received": 725
-  },
-  {
-    "day": "2026-09-13",
-    "item": "米饭",
-    "minute": 726,
-    "event": "替代领餐",
-    "amount": 0,
-    "substitute": "面食",
-    "linked_minute": 720,
-    "received": 726
   },
   {
     "day": "2026-09-13",
