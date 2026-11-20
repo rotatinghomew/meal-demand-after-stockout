@@ -1,0 +1,9 @@
+{
+  "day": "2026-09-14",
+  "confirmed_minute": 570,
+  "quantities": {
+    "米饭": 48,
+    "面食": 32
+  },
+  "materials_issued": 80
+}

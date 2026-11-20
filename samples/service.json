@@ -1,0 +1,812 @@
+[
+  {
+    "day": "2026-08-01",
+    "item": "米饭",
+    "opening": 645,
+    "closing": 795,
+    "stock": 42,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-01",
+    "item": "面食",
+    "opening": 645,
+    "closing": 795,
+    "stock": 25,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-02",
+    "item": "米饭",
+    "opening": 645,
+    "closing": 795,
+    "stock": 44,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-02",
+    "item": "面食",
+    "opening": 645,
+    "closing": 795,
+    "stock": 27,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-03",
+    "item": "米饭",
+    "opening": 645,
+    "closing": 795,
+    "stock": 46,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-03",
+    "item": "面食",
+    "opening": 645,
+    "closing": 795,
+    "stock": 29,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-04",
+    "item": "米饭",
+    "opening": 645,
+    "closing": 795,
+    "stock": 48,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-04",
+    "item": "面食",
+    "opening": 645,
+    "closing": 795,
+    "stock": 31,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-05",
+    "item": "米饭",
+    "opening": 645,
+    "closing": 795,
+    "stock": 50,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-05",
+    "item": "面食",
+    "opening": 645,
+    "closing": 795,
+    "stock": 33,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-06",
+    "item": "米饭",
+    "opening": 645,
+    "closing": 795,
+    "stock": 42,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-06",
+    "item": "面食",
+    "opening": 645,
+    "closing": 795,
+    "stock": 25,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-07",
+    "item": "米饭",
+    "opening": 645,
+    "closing": 795,
+    "stock": 44,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-07",
+    "item": "面食",
+    "opening": 645,
+    "closing": 795,
+    "stock": 27,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-08",
+    "item": "米饭",
+    "opening": 645,
+    "closing": 795,
+    "stock": 46,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-08",
+    "item": "面食",
+    "opening": 645,
+    "closing": 795,
+    "stock": 29,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-09",
+    "item": "米饭",
+    "opening": 645,
+    "closing": 795,
+    "stock": 48,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-09",
+    "item": "面食",
+    "opening": 645,
+    "closing": 795,
+    "stock": 31,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-10",
+    "item": "米饭",
+    "opening": 645,
+    "closing": 795,
+    "stock": 50,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-10",
+    "item": "面食",
+    "opening": 645,
+    "closing": 795,
+    "stock": 33,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-11",
+    "item": "米饭",
+    "opening": 645,
+    "closing": 795,
+    "stock": 42,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-11",
+    "item": "面食",
+    "opening": 645,
+    "closing": 795,
+    "stock": 25,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-12",
+    "item": "米饭",
+    "opening": 645,
+    "closing": 795,
+    "stock": 44,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-12",
+    "item": "面食",
+    "opening": 645,
+    "closing": 795,
+    "stock": 27,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-13",
+    "item": "米饭",
+    "opening": 645,
+    "closing": 795,
+    "stock": 46,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-13",
+    "item": "面食",
+    "opening": 645,
+    "closing": 795,
+    "stock": 0,
+    "closed": true,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-14",
+    "item": "米饭",
+    "opening": 645,
+    "closing": 795,
+    "stock": 48,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-14",
+    "item": "面食",
+    "opening": 645,
+    "closing": 795,
+    "stock": 31,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-15",
+    "item": "米饭",
+    "opening": 645,
+    "closing": 795,
+    "stock": 50,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-15",
+    "item": "面食",
+    "opening": 645,
+    "closing": 795,
+    "stock": 33,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-16",
+    "item": "米饭",
+    "opening": 645,
+    "closing": 795,
+    "stock": 42,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-16",
+    "item": "面食",
+    "opening": 645,
+    "closing": 795,
+    "stock": 25,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-17",
+    "item": "米饭",
+    "opening": 645,
+    "closing": 795,
+    "stock": 44,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-17",
+    "item": "面食",
+    "opening": 645,
+    "closing": 795,
+    "stock": 27,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-18",
+    "item": "米饭",
+    "opening": 645,
+    "closing": 795,
+    "stock": 46,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-18",
+    "item": "面食",
+    "opening": 645,
+    "closing": 795,
+    "stock": 29,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-19",
+    "item": "米饭",
+    "opening": 645,
+    "closing": 795,
+    "stock": 48,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-19",
+    "item": "面食",
+    "opening": 645,
+    "closing": 795,
+    "stock": 31,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-20",
+    "item": "米饭",
+    "opening": 645,
+    "closing": 795,
+    "stock": 50,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-20",
+    "item": "面食",
+    "opening": 645,
+    "closing": 795,
+    "stock": 33,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-21",
+    "item": "米饭",
+    "opening": 645,
+    "closing": 795,
+    "stock": 42,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-21",
+    "item": "面食",
+    "opening": 645,
+    "closing": 795,
+    "stock": 25,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-22",
+    "item": "米饭",
+    "opening": 645,
+    "closing": 795,
+    "stock": 44,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-22",
+    "item": "面食",
+    "opening": 645,
+    "closing": 795,
+    "stock": 27,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-23",
+    "item": "米饭",
+    "opening": 645,
+    "closing": 795,
+    "stock": 46,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-23",
+    "item": "面食",
+    "opening": 645,
+    "closing": 795,
+    "stock": 29,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-24",
+    "item": "米饭",
+    "opening": 645,
+    "closing": 795,
+    "stock": 48,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-24",
+    "item": "面食",
+    "opening": 645,
+    "closing": 795,
+    "stock": 31,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-25",
+    "item": "米饭",
+    "opening": 645,
+    "closing": 795,
+    "stock": 50,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-25",
+    "item": "面食",
+    "opening": 645,
+    "closing": 795,
+    "stock": 33,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-26",
+    "item": "米饭",
+    "opening": 645,
+    "closing": 795,
+    "stock": 42,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-26",
+    "item": "面食",
+    "opening": 645,
+    "closing": 795,
+    "stock": 25,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-27",
+    "item": "米饭",
+    "opening": 645,
+    "closing": 795,
+    "stock": 44,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-27",
+    "item": "面食",
+    "opening": 645,
+    "closing": 795,
+    "stock": 0,
+    "closed": true,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-28",
+    "item": "米饭",
+    "opening": 645,
+    "closing": 795,
+    "stock": 46,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-28",
+    "item": "面食",
+    "opening": 645,
+    "closing": 795,
+    "stock": 29,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-29",
+    "item": "米饭",
+    "opening": 645,
+    "closing": 795,
+    "stock": 48,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-29",
+    "item": "面食",
+    "opening": 645,
+    "closing": 795,
+    "stock": 31,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-30",
+    "item": "米饭",
+    "opening": 645,
+    "closing": 795,
+    "stock": 50,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-30",
+    "item": "面食",
+    "opening": 645,
+    "closing": 795,
+    "stock": 33,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-31",
+    "item": "米饭",
+    "opening": 645,
+    "closing": 795,
+    "stock": 42,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-08-31",
+    "item": "面食",
+    "opening": 645,
+    "closing": 795,
+    "stock": 25,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-09-01",
+    "item": "米饭",
+    "opening": 645,
+    "closing": 795,
+    "stock": 44,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-09-01",
+    "item": "面食",
+    "opening": 645,
+    "closing": 795,
+    "stock": 27,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-09-02",
+    "item": "米饭",
+    "opening": 645,
+    "closing": 795,
+    "stock": 46,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-09-02",
+    "item": "面食",
+    "opening": 645,
+    "closing": 795,
+    "stock": 29,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-09-03",
+    "item": "米饭",
+    "opening": 645,
+    "closing": 795,
+    "stock": 48,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-09-03",
+    "item": "面食",
+    "opening": 645,
+    "closing": 795,
+    "stock": 31,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-09-04",
+    "item": "米饭",
+    "opening": 645,
+    "closing": 795,
+    "stock": 50,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-09-04",
+    "item": "面食",
+    "opening": 645,
+    "closing": 795,
+    "stock": 33,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-09-05",
+    "item": "米饭",
+    "opening": 645,
+    "closing": 795,
+    "stock": 42,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-09-05",
+    "item": "面食",
+    "opening": 645,
+    "closing": 795,
+    "stock": 25,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-09-06",
+    "item": "米饭",
+    "opening": 645,
+    "closing": 795,
+    "stock": 44,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-09-06",
+    "item": "面食",
+    "opening": 645,
+    "closing": 795,
+    "stock": 27,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-09-07",
+    "item": "米饭",
+    "opening": 645,
+    "closing": 795,
+    "stock": 46,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-09-07",
+    "item": "面食",
+    "opening": 645,
+    "closing": 795,
+    "stock": 29,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-09-08",
+    "item": "米饭",
+    "opening": 645,
+    "closing": 795,
+    "stock": 48,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-09-08",
+    "item": "面食",
+    "opening": 645,
+    "closing": 795,
+    "stock": 31,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-09-09",
+    "item": "米饭",
+    "opening": 645,
+    "closing": 795,
+    "stock": 50,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-09-09",
+    "item": "面食",
+    "opening": 645,
+    "closing": 795,
+    "stock": 33,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-09-10",
+    "item": "米饭",
+    "opening": 645,
+    "closing": 795,
+    "stock": 42,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-09-10",
+    "item": "面食",
+    "opening": 645,
+    "closing": 795,
+    "stock": 25,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-09-11",
+    "item": "米饭",
+    "opening": 645,
+    "closing": 795,
+    "stock": 44,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-09-11",
+    "item": "面食",
+    "opening": 645,
+    "closing": 795,
+    "stock": 27,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-09-12",
+    "item": "米饭",
+    "opening": 645,
+    "closing": 795,
+    "stock": 46,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-09-12",
+    "item": "面食",
+    "opening": 645,
+    "closing": 795,
+    "stock": 29,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-09-13",
+    "item": "米饭",
+    "opening": 645,
+    "closing": 795,
+    "stock": 48,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-09-13",
+    "item": "面食",
+    "opening": 645,
+    "closing": 795,
+    "stock": 31,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-09-14",
+    "item": "米饭",
+    "opening": 645,
+    "closing": 795,
+    "stock": 50,
+    "closed": false,
+    "planned_cutoff": 570
+  },
+  {
+    "day": "2026-09-14",
+    "item": "面食",
+    "opening": 645,
+    "closing": 795,
+    "stock": 33,
+    "closed": false,
+    "planned_cutoff": 570
+  }
+]
